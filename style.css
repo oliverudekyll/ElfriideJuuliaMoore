@@ -323,8 +323,7 @@ div.illustration4 {
 div.illustration5 {
     position: absolute;
     object-fit: contain;
-    -webkit-transform: scale(14%,14%);
-    transform: scale(14%);
+    -webkit-transform: scale(.14,.14);    
     top: 4.5rem;
     left: -60rem;
 }
