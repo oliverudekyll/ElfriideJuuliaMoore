@@ -1,0 +1,26 @@
+{
+glyphname = asciicircum.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-66);
+ref = asciicircum;
+}
+);
+width = 500;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,-169);
+ref = asciicircum;
+}
+);
+width = 517;
+}
+);
+note = asciicircum.sc;
+}

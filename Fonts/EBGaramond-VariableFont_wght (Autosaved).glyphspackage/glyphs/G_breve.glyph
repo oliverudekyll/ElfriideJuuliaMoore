@@ -1,0 +1,34 @@
+{
+glyphname = Gbreve;
+kernLeft = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (413,0);
+ref = uni0306.cap;
+}
+);
+width = 729;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (827,0);
+ref = uni0306.cap;
+}
+);
+width = 717;
+}
+);
+note = Gbreve;
+unicode = 286;
+}

@@ -1,0 +1,40 @@
+{
+glyphname = Uhungarumlaut.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.sc;
+},
+{
+pos = (438,63);
+ref = acutecomb;
+},
+{
+pos = (314,63);
+ref = acutecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = U.sc;
+},
+{
+pos = (934,126);
+ref = acutecomb;
+},
+{
+pos = (671,126);
+ref = acutecomb;
+}
+);
+width = 614;
+}
+);
+note = Uhungarumlaut.sc;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = uni1EC0;
+kernLeft = B;
+kernRight = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (279,-15);
+ref = uni0302.cap;
+},
+{
+pos = (99,49);
+ref = gravecomb.capstack;
+}
+);
+width = 535;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (-33,19);
+ref = E;
+},
+{
+pos = (525,-11);
+ref = uni0302.cap;
+},
+{
+pos = (165,117);
+ref = gravecomb.capstack;
+}
+);
+width = 571;
+}
+);
+note = uni1EC0;
+unicode = 7872;
+}

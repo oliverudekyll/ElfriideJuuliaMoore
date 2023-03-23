@@ -1,0 +1,36 @@
+{
+glyphname = Lcaron;
+kernLeft = B;
+kernRight = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (439,-36);
+ref = uni030C.altcap;
+}
+);
+width = 584;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (16,-8);
+ref = L;
+},
+{
+pos = (894,-80);
+ref = uni030C.altcap;
+}
+);
+width = 586;
+}
+);
+note = Lcaron;
+unicode = 317;
+}

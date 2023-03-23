@@ -1,0 +1,35 @@
+{
+glyphname = uniA72F;
+kernRight = uniA72E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uniA72D;
+},
+{
+pos = (407,-110);
+ref = comma;
+}
+);
+width = 635;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (47,-51);
+ref = uniA72D;
+},
+{
+pos = (861,-271);
+ref = comma;
+}
+);
+width = 705;
+}
+);
+note = uniA72F;
+unicode = 42799;
+}

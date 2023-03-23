@@ -1,0 +1,35 @@
+{
+glyphname = Ecircumflex;
+kernLeft = B;
+kernRight = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (297,0);
+ref = uni0302.cap;
+}
+);
+width = 564;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (595,0);
+ref = uni0302.cap;
+}
+);
+width = 577;
+}
+);
+note = Ecircumflex;
+unicode = 202;
+}

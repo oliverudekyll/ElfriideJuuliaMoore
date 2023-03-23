@@ -1,0 +1,36 @@
+{
+glyphname = omacron;
+kernLeft = c;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (254,10);
+ref = uni0304;
+}
+);
+width = 495;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (6,3);
+ref = o;
+},
+{
+pos = (514,23);
+ref = uni0304;
+}
+);
+width = 505;
+}
+);
+note = omacron;
+unicode = 333;
+}

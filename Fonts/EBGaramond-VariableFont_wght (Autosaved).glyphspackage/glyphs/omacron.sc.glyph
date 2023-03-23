@@ -1,0 +1,33 @@
+{
+glyphname = omacron.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O.sc;
+},
+{
+pos = (310,74);
+ref = uni0304;
+}
+);
+width = 616;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (10,3);
+ref = O.sc;
+},
+{
+pos = (630,151);
+ref = uni0304;
+}
+);
+width = 632;
+}
+);
+note = omacron.sc;
+}

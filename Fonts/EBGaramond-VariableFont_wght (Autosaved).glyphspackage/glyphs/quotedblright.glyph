@@ -1,0 +1,37 @@
+{
+glyphname = quotedblright;
+kernLeft = quotedblright;
+kernRight = quotedblright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (21,573);
+ref = comma;
+},
+{
+pos = (197,573);
+ref = comma;
+}
+);
+width = 418;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (21,1146);
+ref = comma;
+},
+{
+pos = (403,1146);
+ref = comma;
+}
+);
+width = 444;
+}
+);
+note = quotedblright;
+unicode = 8221;
+}

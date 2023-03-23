@@ -1,0 +1,35 @@
+{
+glyphname = uni045E;
+kernLeft = uni01B4;
+kernRight = uni0233;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (240,0);
+ref = uni0306.cyr;
+}
+);
+width = 438;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (524,0);
+ref = uni0306.cyr;
+}
+);
+width = 491;
+}
+);
+note = uni045E;
+unicode = 1118;
+}

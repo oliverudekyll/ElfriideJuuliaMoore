@@ -1,0 +1,33 @@
+{
+glyphname = udieresis.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U.sc;
+},
+{
+pos = (313,69);
+ref = uni0308;
+}
+);
+width = 600;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (39,-21);
+ref = U.sc;
+},
+{
+pos = (665,117);
+ref = uni0308;
+}
+);
+width = 614;
+}
+);
+note = udieresis.sc;
+}

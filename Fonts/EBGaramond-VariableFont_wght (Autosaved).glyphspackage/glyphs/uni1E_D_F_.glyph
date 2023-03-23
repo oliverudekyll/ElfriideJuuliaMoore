@@ -1,0 +1,34 @@
+{
+glyphname = uni1EDF;
+kernLeft = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (237,0);
+ref = hookabovecomb;
+}
+);
+width = 506;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (485,0);
+ref = hookabovecomb;
+}
+);
+width = 551;
+}
+);
+note = uni1EDF;
+unicode = 7903;
+}

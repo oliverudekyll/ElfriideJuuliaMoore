@@ -1,0 +1,43 @@
+{
+glyphname = uni2100;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (270,0);
+ref = fraction;
+},
+{
+pos = (0,126);
+ref = a.ordn;
+},
+{
+pos = (334,-280);
+ref = c.ordn;
+}
+);
+width = 600;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (551,0);
+ref = fraction;
+},
+{
+pos = (0,252);
+ref = a.ordn;
+},
+{
+pos = (631,-560);
+ref = c.ordn;
+}
+);
+width = 634;
+}
+);
+note = uni2100;
+unicode = 8448;
+}

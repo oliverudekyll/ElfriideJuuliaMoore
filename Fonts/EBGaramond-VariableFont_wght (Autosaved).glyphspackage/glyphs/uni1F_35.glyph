@@ -1,0 +1,33 @@
+{
+glyphname = uni1F35;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-27,0);
+ref = uni1FDE;
+}
+);
+width = 238;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-66,0);
+ref = uni1FDE;
+}
+);
+width = 299;
+}
+);
+note = uni1F35;
+unicode = 7989;
+}

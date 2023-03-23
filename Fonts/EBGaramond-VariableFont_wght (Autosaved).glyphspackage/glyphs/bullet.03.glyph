@@ -1,0 +1,24 @@
+{
+glyphname = bullet.03;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni2619.01;
+}
+);
+width = 1000;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = uni2619.01;
+}
+);
+width = 985;
+}
+);
+note = bullet.03;
+}

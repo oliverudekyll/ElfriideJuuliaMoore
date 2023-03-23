@@ -1,0 +1,42 @@
+{
+glyphname = uni1E17;
+kernLeft = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (210,0);
+ref = uni0304;
+},
+{
+pos = (253,126);
+ref = acutecomb.stack;
+}
+);
+width = 390;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (419,3);
+ref = uni0304;
+},
+{
+pos = (515,282);
+ref = acutecomb.stack;
+}
+);
+width = 423;
+}
+);
+note = uni1E17;
+unicode = 7703;
+}

@@ -1,0 +1,35 @@
+{
+glyphname = uni1FEA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (125,0);
+ref = Upsilon;
+},
+{
+pos = (66,24);
+ref = gravecomb.grk;
+}
+);
+width = 864;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (282,0);
+ref = Upsilon;
+},
+{
+pos = (131,-12);
+ref = gravecomb.grk;
+}
+);
+width = 896;
+}
+);
+note = uni1FEA;
+unicode = 8170;
+}

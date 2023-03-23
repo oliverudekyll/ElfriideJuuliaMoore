@@ -1,0 +1,26 @@
+{
+glyphname = K.sups;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,160);
+ref = K.ordn;
+}
+);
+width = 491;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,335);
+ref = K.ordn;
+}
+);
+width = 601;
+}
+);
+note = K.sups;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = c.sinf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-424);
+ref = c.ordn;
+}
+);
+width = 266;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,-848);
+ref = c.ordn;
+}
+);
+width = 337;
+}
+);
+note = c.sinf;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = uni025B;
+kernLeft = uni025B;
+kernRight = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0511;
+}
+);
+width = 356;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = uni0511;
+}
+);
+width = 434;
+}
+);
+note = uni025B;
+unicode = 603;
+}

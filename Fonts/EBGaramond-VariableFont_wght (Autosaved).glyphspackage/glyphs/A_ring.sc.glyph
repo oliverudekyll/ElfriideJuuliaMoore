@@ -1,0 +1,32 @@
+{
+glyphname = Aring.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (273,63);
+ref = uni030A;
+}
+);
+width = 544;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (583,126);
+ref = uni030A;
+}
+);
+width = 611;
+}
+);
+note = Aring.sc;
+}

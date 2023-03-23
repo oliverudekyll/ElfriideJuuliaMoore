@@ -1,0 +1,32 @@
+{
+glyphname = lcaron.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L.sc;
+},
+{
+pos = (378,-189);
+ref = uni030C.altcap;
+}
+);
+width = 470;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = L.sc;
+},
+{
+pos = (782,-378);
+ref = uni030C.altcap;
+}
+);
+width = 500;
+}
+);
+note = lcaron.sc;
+}

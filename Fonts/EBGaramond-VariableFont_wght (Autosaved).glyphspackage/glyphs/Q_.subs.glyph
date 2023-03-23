@@ -1,0 +1,26 @@
+{
+glyphname = Q.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-279);
+ref = Q.ordn;
+}
+);
+width = 542;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,-543);
+ref = Q.ordn;
+}
+);
+width = 574;
+}
+);
+note = Q.subs;
+}

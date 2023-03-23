@@ -1,0 +1,33 @@
+{
+glyphname = twodotenleader;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (228,0);
+ref = period;
+}
+);
+width = 458;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = period;
+},
+{
+pos = (500,0);
+ref = period;
+}
+);
+width = 523;
+}
+);
+note = twodotenleader;
+unicode = 8229;
+}

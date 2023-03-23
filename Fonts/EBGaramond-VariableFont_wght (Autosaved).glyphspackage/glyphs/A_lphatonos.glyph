@@ -1,0 +1,34 @@
+{
+glyphname = Alphatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (41,24);
+ref = tonos;
+}
+);
+width = 692;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (-58,-59);
+ref = A;
+},
+{
+pos = (24,-11);
+ref = tonos;
+}
+);
+width = 726;
+}
+);
+note = Alphatonos;
+unicode = 902;
+}

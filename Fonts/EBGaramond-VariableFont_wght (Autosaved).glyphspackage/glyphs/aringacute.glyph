@@ -1,0 +1,43 @@
+{
+glyphname = aringacute;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (186,-18);
+ref = uni030A;
+},
+{
+pos = (203,132);
+ref = acutecomb.flat;
+}
+);
+width = 399;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (411,-43);
+ref = uni030A;
+},
+{
+pos = (450,294);
+ref = acutecomb.flat;
+}
+);
+width = 447;
+}
+);
+note = aringacute;
+unicode = 507;
+}

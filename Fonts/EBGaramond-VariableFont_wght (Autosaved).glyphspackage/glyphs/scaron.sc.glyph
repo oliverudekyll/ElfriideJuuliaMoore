@@ -1,0 +1,32 @@
+{
+glyphname = scaron.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S.sc;
+},
+{
+pos = (223,84);
+ref = uni030C;
+}
+);
+width = 440;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = S.sc;
+},
+{
+pos = (466,168);
+ref = uni030C;
+}
+);
+width = 445;
+}
+);
+note = scaron.sc;
+}

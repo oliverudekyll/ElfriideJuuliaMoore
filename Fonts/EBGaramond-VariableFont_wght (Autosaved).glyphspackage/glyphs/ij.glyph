@@ -1,0 +1,50 @@
+{
+glyphname = ij;
+kernLeft = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (24,0);
+ref = dotaccent;
+},
+{
+pos = (237,0);
+ref = j.dotless;
+},
+{
+pos = (253,0);
+ref = dotaccent;
+}
+);
+width = 463;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (55,0);
+ref = dotaccent;
+},
+{
+pos = (529,0);
+ref = j.dotless;
+},
+{
+pos = (560,0);
+ref = dotaccent;
+}
+);
+width = 567;
+}
+);
+note = ij;
+unicode = 307;
+}

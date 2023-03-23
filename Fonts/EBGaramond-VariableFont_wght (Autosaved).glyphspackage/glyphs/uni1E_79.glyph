@@ -1,0 +1,41 @@
+{
+glyphname = uni1E79;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (261,0);
+ref = tildecomb.stack;
+},
+{
+pos = (296,151);
+ref = acutecomb.stack;
+}
+);
+width = 527;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (549,0);
+ref = tildecomb.stack;
+},
+{
+pos = (597,306);
+ref = acutecomb.stack;
+}
+);
+width = 556;
+}
+);
+note = uni1E79;
+unicode = 7801;
+}

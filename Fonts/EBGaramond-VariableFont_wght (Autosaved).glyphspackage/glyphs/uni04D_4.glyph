@@ -1,0 +1,27 @@
+{
+glyphname = uni04D4;
+kernLeft = AE;
+kernRight = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = AE;
+}
+);
+width = 872;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = AE;
+}
+);
+width = 917;
+}
+);
+note = uni04D4;
+unicode = 1236;
+}

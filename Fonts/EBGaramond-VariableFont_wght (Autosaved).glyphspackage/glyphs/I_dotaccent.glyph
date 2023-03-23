@@ -1,0 +1,35 @@
+{
+glyphname = Idotaccent;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (170,0);
+ref = uni0307.cap;
+}
+);
+width = 340;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (360,0);
+ref = uni0307.cap;
+}
+);
+width = 369;
+}
+);
+note = Idotaccent;
+unicode = 304;
+}

@@ -1,0 +1,43 @@
+{
+glyphname = Aringacute;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (357,0);
+ref = uni030A.cap;
+},
+{
+pos = (381,360);
+ref = acutecomb.flat;
+}
+);
+width = 692;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (737,0);
+ref = uni030A.cap;
+},
+{
+pos = (778,724);
+ref = acutecomb.flat;
+}
+);
+width = 726;
+}
+);
+note = Aringacute;
+unicode = 506;
+}

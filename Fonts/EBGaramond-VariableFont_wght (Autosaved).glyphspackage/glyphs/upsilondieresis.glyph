@@ -1,0 +1,34 @@
+{
+glyphname = upsilondieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (227,19);
+ref = uni0308;
+}
+);
+width = 434;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (16,-19);
+ref = upsilon;
+},
+{
+pos = (470,19);
+ref = uni0308;
+}
+);
+width = 469;
+}
+);
+note = upsilondieresis;
+unicode = 971;
+}

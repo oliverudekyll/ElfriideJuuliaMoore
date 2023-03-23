@@ -1,0 +1,24 @@
+{
+glyphname = uni03A9.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omega.sc;
+}
+);
+width = 660;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = omega.sc;
+}
+);
+width = 644;
+}
+);
+note = uni03A9.sc;
+}

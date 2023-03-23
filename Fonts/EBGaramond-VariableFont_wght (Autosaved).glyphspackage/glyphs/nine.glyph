@@ -1,0 +1,27 @@
+{
+glyphname = nine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (10,0);
+ref = nine.lf;
+}
+);
+width = 480;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (20,0);
+ref = nine.lf;
+}
+);
+width = 540;
+}
+);
+note = nine;
+unicode = 57;
+}

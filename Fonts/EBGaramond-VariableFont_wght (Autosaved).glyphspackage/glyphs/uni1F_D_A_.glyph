@@ -1,0 +1,35 @@
+{
+glyphname = uni1FDA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (94,0);
+ref = I;
+},
+{
+pos = (59,24);
+ref = gravecomb.grk;
+}
+);
+width = 434;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (241,0);
+ref = I;
+},
+{
+pos = (137,-12);
+ref = gravecomb.grk;
+}
+);
+width = 516;
+}
+);
+note = uni1FDA;
+unicode = 8154;
+}

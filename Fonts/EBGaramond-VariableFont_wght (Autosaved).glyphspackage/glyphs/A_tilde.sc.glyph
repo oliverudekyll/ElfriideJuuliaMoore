@@ -1,0 +1,32 @@
+{
+glyphname = Atilde.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (278,80);
+ref = tildecomb;
+}
+);
+width = 544;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (587,160);
+ref = tildecomb;
+}
+);
+width = 611;
+}
+);
+note = Atilde.sc;
+}

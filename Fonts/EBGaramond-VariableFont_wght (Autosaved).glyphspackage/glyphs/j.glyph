@@ -1,0 +1,34 @@
+{
+glyphname = j;
+kernLeft = j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = j.dotless;
+},
+{
+pos = (16,0);
+ref = dotaccent;
+}
+);
+width = 226;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = j.dotless;
+},
+{
+pos = (31,0);
+ref = dotaccent;
+}
+);
+width = 275;
+}
+);
+note = j;
+unicode = 106;
+}

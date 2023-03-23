@@ -1,0 +1,41 @@
+{
+glyphname = uni2498;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = one.osf;
+},
+{
+pos = (289,0);
+ref = seven.osf;
+},
+{
+pos = (749,0);
+ref = period;
+}
+);
+width = 979;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = one.osf;
+},
+{
+pos = (613,0);
+ref = seven.osf;
+},
+{
+pos = (1473,0);
+ref = period;
+}
+);
+width = 975;
+}
+);
+note = uni2498;
+unicode = 9368;
+}

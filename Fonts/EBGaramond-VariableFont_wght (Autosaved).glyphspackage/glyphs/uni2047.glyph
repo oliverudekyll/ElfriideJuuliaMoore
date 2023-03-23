@@ -1,0 +1,34 @@
+{
+glyphname = uni2047;
+kernLeft = question;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = question;
+},
+{
+pos = (285,0);
+ref = question;
+}
+);
+width = 661;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = question;
+},
+{
+pos = (587,0);
+ref = question;
+}
+);
+width = 701;
+}
+);
+note = uni2047;
+unicode = 8263;
+}

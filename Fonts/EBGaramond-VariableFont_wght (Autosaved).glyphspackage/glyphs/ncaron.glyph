@@ -1,0 +1,35 @@
+{
+glyphname = ncaron;
+kernLeft = dotlessi;
+kernRight = h;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (271,0);
+ref = uni030C;
+}
+);
+width = 528;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (569,0);
+ref = uni030C;
+}
+);
+width = 574;
+}
+);
+note = ncaron;
+unicode = 328;
+}

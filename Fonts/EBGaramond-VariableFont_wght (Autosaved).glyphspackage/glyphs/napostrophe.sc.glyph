@@ -1,0 +1,34 @@
+{
+glyphname = napostrophe.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (35,0);
+ref = N.sc;
+},
+{
+pos = (0,-34);
+ref = uni030C.altcap;
+}
+);
+width = 640;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (83,0);
+ref = N.sc;
+},
+{
+pos = (0,-68);
+ref = uni030C.altcap;
+}
+);
+width = 695;
+}
+);
+note = napostrophe.sc;
+}

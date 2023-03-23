@@ -1,0 +1,25 @@
+{
+glyphname = uniFB04;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = f_f_l;
+}
+);
+width = 761;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = f_f_l;
+}
+);
+width = 937;
+}
+);
+note = uniFB04;
+unicode = 64260;
+}

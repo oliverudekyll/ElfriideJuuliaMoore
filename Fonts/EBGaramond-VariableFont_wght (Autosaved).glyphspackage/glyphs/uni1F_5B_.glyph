@@ -1,0 +1,36 @@
+{
+glyphname = uni1F5B;
+kernRight = Upsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (223,0);
+ref = Upsilon;
+},
+{
+pos = (-50,24);
+ref = uni1FDD;
+}
+);
+width = 962;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (526,0);
+ref = Upsilon;
+},
+{
+pos = (-100,-12);
+ref = uni1FDD;
+}
+);
+width = 1042;
+}
+);
+note = uni1F5B;
+unicode = 8027;
+}

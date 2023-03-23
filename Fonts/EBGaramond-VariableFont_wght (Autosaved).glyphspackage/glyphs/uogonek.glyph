@@ -1,0 +1,33 @@
+{
+glyphname = uogonek;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (263,0);
+ref = ogonek;
+}
+);
+width = 527;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (516,0);
+ref = ogonek;
+}
+);
+width = 556;
+}
+);
+note = uogonek;
+unicode = 371;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = dieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (150,19);
+ref = uni0308;
+}
+);
+width = 300;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (333,19);
+ref = uni0308;
+}
+);
+width = 367;
+}
+);
+note = dieresis;
+unicode = 168;
+}

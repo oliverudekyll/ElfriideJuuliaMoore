@@ -1,0 +1,27 @@
+{
+glyphname = uni208A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-424);
+ref = plus.ordn;
+}
+);
+width = 401;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,-848);
+ref = plus.ordn;
+}
+);
+width = 419;
+}
+);
+note = uni208A;
+unicode = 8330;
+}

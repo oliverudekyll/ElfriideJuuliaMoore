@@ -1,0 +1,33 @@
+{
+glyphname = uni248D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = six.osf;
+},
+{
+pos = (466,0);
+ref = period;
+}
+);
+width = 696;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = six.osf;
+},
+{
+pos = (932,0);
+ref = period;
+}
+);
+width = 717;
+}
+);
+note = uni248D;
+unicode = 9357;
+}

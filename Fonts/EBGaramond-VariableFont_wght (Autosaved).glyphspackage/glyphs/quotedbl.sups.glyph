@@ -1,0 +1,34 @@
+{
+glyphname = quotedbl.sups;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (77,160);
+ref = quotesingle.ordn;
+},
+{
+pos = (0,160);
+ref = quotesingle.ordn;
+}
+);
+width = 166;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (178,320);
+ref = quotesingle.ordn;
+},
+{
+pos = (0,320);
+ref = quotesingle.ordn;
+}
+);
+width = 237;
+}
+);
+note = quotedbl.sups;
+}

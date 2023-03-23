@@ -1,0 +1,32 @@
+{
+glyphname = ntilde.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N.sc;
+},
+{
+pos = (333,80);
+ref = tildecomb;
+}
+);
+width = 605;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = N.sc;
+},
+{
+pos = (669,160);
+ref = tildecomb;
+}
+);
+width = 647;
+}
+);
+note = ntilde.sc;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = uni2076;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,160);
+ref = six.ordn;
+}
+);
+width = 300;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,320);
+ref = six.ordn;
+}
+);
+width = 319;
+}
+);
+note = uni2076;
+unicode = 8310;
+}

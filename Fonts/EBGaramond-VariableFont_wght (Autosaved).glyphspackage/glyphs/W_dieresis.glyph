@@ -1,0 +1,35 @@
+{
+glyphname = Wdieresis;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (510,0);
+ref = uni0308.cap;
+}
+);
+width = 916;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (1109,0);
+ref = uni0308.cap;
+}
+);
+width = 1043;
+}
+);
+note = Wdieresis;
+unicode = 7812;
+}

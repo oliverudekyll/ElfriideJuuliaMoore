@@ -1,0 +1,37 @@
+{
+glyphname = napostrophe;
+kernLeft = dotlessi;
+kernRight = h;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (81,0);
+ref = n;
+},
+{
+pos = (-41,573);
+ref = comma;
+}
+);
+width = 609;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (185,0);
+ref = n;
+},
+{
+pos = (-78,1146);
+ref = comma;
+}
+);
+width = 678;
+}
+);
+note = napostrophe;
+unicode = 329;
+}

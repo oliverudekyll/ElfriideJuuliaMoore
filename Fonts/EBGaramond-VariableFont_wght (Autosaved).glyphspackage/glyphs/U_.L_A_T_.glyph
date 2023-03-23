@@ -1,0 +1,26 @@
+{
+glyphname = U.LAT;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = V;
+}
+);
+width = 672;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = V;
+}
+);
+width = 714;
+}
+);
+note = U.LAT;
+}

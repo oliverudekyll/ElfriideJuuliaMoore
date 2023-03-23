@@ -1,0 +1,35 @@
+{
+glyphname = hcircumflex;
+kernLeft = h;
+kernRight = h;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h;
+},
+{
+pos = (106,58);
+ref = uni0302.flat;
+}
+);
+width = 515;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (244,116);
+ref = uni0302.flat;
+}
+);
+width = 569;
+}
+);
+note = hcircumflex;
+unicode = 293;
+}

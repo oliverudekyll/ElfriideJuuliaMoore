@@ -1,0 +1,32 @@
+{
+glyphname = c_h;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (359,0);
+ref = h;
+}
+);
+width = 874;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (746,0);
+ref = h;
+}
+);
+width = 956;
+}
+);
+note = c_h;
+}

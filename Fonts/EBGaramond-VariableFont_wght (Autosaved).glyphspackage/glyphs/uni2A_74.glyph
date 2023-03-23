@@ -1,0 +1,59 @@
+{
+glyphname = uni2A74;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (455,0);
+ref = equal;
+},
+{
+pos = (239,353);
+ref = period;
+},
+{
+pos = (239,77);
+ref = period;
+},
+{
+pos = (10,353);
+ref = period;
+},
+{
+pos = (10,77);
+ref = period;
+}
+);
+width = 1021;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (910,0);
+ref = equal;
+},
+{
+pos = (478,706);
+ref = period;
+},
+{
+pos = (478,154);
+ref = period;
+},
+{
+pos = (20,706);
+ref = period;
+},
+{
+pos = (20,154);
+ref = period;
+}
+);
+width = 1098;
+}
+);
+note = uni2A74;
+unicode = 10868;
+}

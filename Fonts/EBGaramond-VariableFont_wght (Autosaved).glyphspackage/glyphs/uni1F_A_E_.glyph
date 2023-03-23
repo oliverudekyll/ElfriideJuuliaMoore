@@ -1,0 +1,51 @@
+{
+glyphname = uni1FAE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (113,0);
+ref = uni03A9.1;
+},
+{
+pos = (115,152);
+ref = tildecomb.stack;
+},
+{
+pos = (112,4);
+ref = uni0313.grkstack;
+},
+{
+pos = (554,0);
+ref = uni0345;
+}
+);
+width = 943;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (239,0);
+ref = uni03A9.1;
+},
+{
+pos = (228,300);
+ref = tildecomb.stack;
+},
+{
+pos = (221,-17);
+ref = uni0313.grkstack;
+},
+{
+pos = (1120,0);
+ref = uni0345;
+}
+);
+width = 960;
+}
+);
+note = uni1FAE;
+unicode = 8110;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = acute.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (99,1);
+ref = acutecomb;
+}
+);
+width = 200;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (222,2);
+ref = acutecomb;
+}
+);
+width = 245;
+}
+);
+note = acute.sc;
+}

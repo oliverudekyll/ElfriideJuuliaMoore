@@ -1,0 +1,34 @@
+{
+glyphname = uni1E72;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (368,-679);
+ref = uni0308;
+}
+);
+width = 738;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (20,-19);
+ref = U;
+},
+{
+pos = (756,-1377);
+ref = uni0308;
+}
+);
+width = 746;
+}
+);
+note = uni1E72;
+unicode = 7794;
+}

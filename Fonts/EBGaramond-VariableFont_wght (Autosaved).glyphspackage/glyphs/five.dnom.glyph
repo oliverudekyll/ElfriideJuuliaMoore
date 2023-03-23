@@ -1,0 +1,26 @@
+{
+glyphname = five.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-301);
+ref = five.ordn;
+}
+);
+width = 300;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,-602);
+ref = five.ordn;
+}
+);
+width = 286;
+}
+);
+note = five.dnom;
+}

@@ -1,0 +1,41 @@
+{
+glyphname = threequarters;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = three.ordn;
+},
+{
+pos = (315,0);
+ref = fraction;
+},
+{
+pos = (334,-273);
+ref = four.ordn;
+}
+);
+width = 634;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = three.ordn;
+},
+{
+pos = (653,0);
+ref = fraction;
+},
+{
+pos = (661,-546);
+ref = four.ordn;
+}
+);
+width = 666;
+}
+);
+note = threequarters;
+unicode = 190;
+}

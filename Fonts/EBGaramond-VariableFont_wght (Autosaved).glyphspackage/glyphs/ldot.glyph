@@ -1,0 +1,35 @@
+{
+glyphname = ldot;
+kernLeft = h;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (169,315);
+ref = period;
+}
+);
+width = 334;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (63,-54);
+ref = l;
+},
+{
+pos = (401,576);
+ref = period;
+}
+);
+width = 420;
+}
+);
+note = ldot;
+unicode = 320;
+}

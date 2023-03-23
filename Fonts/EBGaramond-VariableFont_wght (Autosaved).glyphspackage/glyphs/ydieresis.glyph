@@ -1,0 +1,36 @@
+{
+glyphname = ydieresis;
+kernLeft = uni01B4;
+kernRight = uni0233;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (242,19);
+ref = uni0308;
+}
+);
+width = 438;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (42,-19);
+ref = y;
+},
+{
+pos = (526,19);
+ref = uni0308;
+}
+);
+width = 491;
+}
+);
+note = ydieresis;
+unicode = 255;
+}

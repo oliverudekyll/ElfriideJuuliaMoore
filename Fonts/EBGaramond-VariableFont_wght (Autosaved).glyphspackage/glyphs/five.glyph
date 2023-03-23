@@ -1,0 +1,27 @@
+{
+glyphname = five;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (20,0);
+ref = five.lf;
+}
+);
+width = 480;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (76,0);
+ref = five.lf;
+}
+);
+width = 540;
+}
+);
+note = five;
+unicode = 53;
+}

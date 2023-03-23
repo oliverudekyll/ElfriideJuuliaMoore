@@ -1,0 +1,24 @@
+{
+glyphname = Tau.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T.sc;
+}
+);
+width = 530;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = T.sc;
+}
+);
+width = 559;
+}
+);
+note = Tau.sc;
+}

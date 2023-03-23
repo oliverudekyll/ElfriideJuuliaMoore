@@ -1,0 +1,73 @@
+{
+glyphname = uni2177;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = v;
+},
+{
+pos = (423,0);
+ref = dotlessi;
+},
+{
+pos = (447,0);
+ref = dotaccent;
+},
+{
+pos = (652,0);
+ref = dotlessi;
+},
+{
+pos = (676,0);
+ref = dotaccent;
+},
+{
+pos = (881,0);
+ref = dotlessi;
+},
+{
+pos = (905,0);
+ref = dotaccent;
+}
+);
+width = 1126;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = v;
+},
+{
+pos = (896,0);
+ref = dotlessi;
+},
+{
+pos = (951,0);
+ref = dotaccent;
+},
+{
+pos = (1414,0);
+ref = dotlessi;
+},
+{
+pos = (1469,0);
+ref = dotaccent;
+},
+{
+pos = (1932,0);
+ref = dotlessi;
+},
+{
+pos = (1987,0);
+ref = dotaccent;
+}
+);
+width = 1357;
+}
+);
+note = uni2177;
+unicode = 8567;
+}

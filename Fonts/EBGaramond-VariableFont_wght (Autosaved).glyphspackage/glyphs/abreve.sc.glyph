@@ -1,0 +1,32 @@
+{
+glyphname = abreve.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (273,63);
+ref = uni0306;
+}
+);
+width = 544;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (585,126);
+ref = uni0306;
+}
+);
+width = 611;
+}
+);
+note = abreve.sc;
+}

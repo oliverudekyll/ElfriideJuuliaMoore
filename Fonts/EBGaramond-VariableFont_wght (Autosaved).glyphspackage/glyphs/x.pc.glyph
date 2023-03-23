@@ -1,0 +1,24 @@
+{
+glyphname = x.pc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = X.pc;
+}
+);
+width = 504;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = X.pc;
+}
+);
+width = 609;
+}
+);
+note = x.pc;
+}

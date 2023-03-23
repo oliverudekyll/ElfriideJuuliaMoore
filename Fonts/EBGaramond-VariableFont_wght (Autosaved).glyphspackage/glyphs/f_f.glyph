@@ -1,0 +1,25 @@
+{
+glyphname = f_f;
+kernRight = f;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uniFB00;
+}
+);
+width = 575;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = uniFB00;
+}
+);
+width = 683;
+}
+);
+note = f_f;
+}

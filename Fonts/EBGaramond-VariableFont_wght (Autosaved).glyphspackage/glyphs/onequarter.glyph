@@ -1,0 +1,41 @@
+{
+glyphname = onequarter;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = one.ordn;
+},
+{
+pos = (338,0);
+ref = fraction;
+},
+{
+pos = (357,-273);
+ref = four.ordn;
+}
+);
+width = 657;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = one.ordn;
+},
+{
+pos = (656,0);
+ref = fraction;
+},
+{
+pos = (660,-546);
+ref = four.ordn;
+}
+);
+width = 642;
+}
+);
+note = onequarter;
+unicode = 188;
+}

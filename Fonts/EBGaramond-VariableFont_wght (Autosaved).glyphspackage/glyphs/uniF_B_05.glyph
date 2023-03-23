@@ -1,0 +1,25 @@
+{
+glyphname = uniFB05;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = longs_t;
+}
+);
+width = 595;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = longs_t;
+}
+);
+width = 684;
+}
+);
+note = uniFB05;
+unicode = 64261;
+}

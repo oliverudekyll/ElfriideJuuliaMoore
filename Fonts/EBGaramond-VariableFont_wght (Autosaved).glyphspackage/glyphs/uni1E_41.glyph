@@ -1,0 +1,35 @@
+{
+glyphname = uni1E41;
+kernLeft = dotlessi;
+kernRight = h;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = m;
+},
+{
+pos = (292,0);
+ref = dotaccent;
+}
+);
+width = 778;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = m;
+},
+{
+pos = (600,0);
+ref = dotaccent;
+}
+);
+width = 813;
+}
+);
+note = uni1E41;
+unicode = 7745;
+}

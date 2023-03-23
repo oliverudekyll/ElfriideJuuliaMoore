@@ -1,0 +1,26 @@
+{
+glyphname = r.pc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (13,0);
+ref = uni0280;
+}
+);
+width = 506;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (14,0);
+ref = uni0280;
+}
+);
+width = 588;
+}
+);
+note = r.pc;
+}

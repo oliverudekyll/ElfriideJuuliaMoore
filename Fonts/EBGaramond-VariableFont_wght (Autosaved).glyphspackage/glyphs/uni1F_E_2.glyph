@@ -1,0 +1,41 @@
+{
+glyphname = uni1FE2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (226,19);
+ref = uni0308.grkstacksc;
+},
+{
+pos = (198,47);
+ref = gravecomb.grksc;
+}
+);
+width = 434;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (473,41);
+ref = uni0308.grkstacksc;
+},
+{
+pos = (398,200);
+ref = gravecomb.grksc;
+}
+);
+width = 469;
+}
+);
+note = uni1FE2;
+unicode = 8162;
+}

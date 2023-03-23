@@ -1,0 +1,34 @@
+{
+glyphname = semicolon.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-2,-126);
+ref = period.ordn;
+},
+{
+pos = (-2,-280);
+ref = comma.ordn;
+}
+);
+width = 168;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (-8,-252);
+ref = period.ordn;
+},
+{
+pos = (-2,-560);
+ref = comma.ordn;
+}
+);
+width = 157;
+}
+);
+note = semicolon.subs;
+}

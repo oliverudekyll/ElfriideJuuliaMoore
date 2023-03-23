@@ -1,0 +1,27 @@
+{
+glyphname = acute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (100,0);
+ref = acutecomb;
+}
+);
+width = 200;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (223,0);
+ref = acutecomb;
+}
+);
+width = 245;
+}
+);
+note = acute;
+unicode = 180;
+}

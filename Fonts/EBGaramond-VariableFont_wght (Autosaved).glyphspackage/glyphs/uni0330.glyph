@@ -1,0 +1,27 @@
+{
+glyphname = uni0330;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-12,-661);
+ref = tildecomb;
+}
+);
+width = 0;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (-36,-1344);
+ref = tildecomb;
+}
+);
+width = 0;
+}
+);
+note = uni0330;
+unicode = 816;
+}

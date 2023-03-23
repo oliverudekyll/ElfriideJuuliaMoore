@@ -1,0 +1,36 @@
+{
+glyphname = amacron;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (201,10);
+ref = uni0304;
+}
+);
+width = 399;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (27,3);
+ref = a;
+},
+{
+pos = (429,23);
+ref = uni0304;
+}
+);
+width = 447;
+}
+);
+note = amacron;
+unicode = 257;
+}

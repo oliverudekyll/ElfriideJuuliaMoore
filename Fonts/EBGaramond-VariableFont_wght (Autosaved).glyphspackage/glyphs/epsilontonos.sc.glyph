@@ -1,0 +1,33 @@
+{
+glyphname = epsilontonos.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E.sc;
+},
+{
+pos = (169,63);
+ref = tonos;
+}
+);
+width = 480;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (-8,1);
+ref = E.sc;
+},
+{
+pos = (330,127);
+ref = tonos;
+}
+);
+width = 494;
+}
+);
+note = epsilontonos.sc;
+}

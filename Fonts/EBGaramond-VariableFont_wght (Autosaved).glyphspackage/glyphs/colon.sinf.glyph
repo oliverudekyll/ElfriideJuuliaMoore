@@ -1,0 +1,34 @@
+{
+glyphname = colon.sinf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-424);
+ref = period.ordn;
+},
+{
+pos = (0,-270);
+ref = period.ordn;
+}
+);
+width = 168;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (2,-848);
+ref = period.ordn;
+},
+{
+pos = (2,-540);
+ref = period.ordn;
+}
+);
+width = 165;
+}
+);
+note = colon.sinf;
+}

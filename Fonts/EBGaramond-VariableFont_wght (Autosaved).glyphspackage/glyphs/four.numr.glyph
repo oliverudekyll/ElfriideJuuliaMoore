@@ -1,0 +1,26 @@
+{
+glyphname = four.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,6);
+ref = four.ordn;
+}
+);
+width = 300;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,12);
+ref = four.ordn;
+}
+);
+width = 339;
+}
+);
+note = four.numr;
+}

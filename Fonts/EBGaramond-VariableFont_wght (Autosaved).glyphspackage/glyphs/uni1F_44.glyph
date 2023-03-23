@@ -1,0 +1,33 @@
+{
+glyphname = uni1F44;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (68,0);
+ref = uni1FCE;
+}
+);
+width = 400;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (107,0);
+ref = uni1FCE;
+}
+);
+width = 418;
+}
+);
+note = uni1F44;
+unicode = 8004;
+}

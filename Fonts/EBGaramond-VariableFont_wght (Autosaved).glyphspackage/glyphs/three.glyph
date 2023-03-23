@@ -1,0 +1,27 @@
+{
+glyphname = three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (10,0);
+ref = three.lf;
+}
+);
+width = 480;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (53,0);
+ref = three.lf;
+}
+);
+width = 540;
+}
+);
+note = three;
+unicode = 51;
+}

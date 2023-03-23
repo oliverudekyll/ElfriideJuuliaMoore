@@ -1,0 +1,25 @@
+{
+glyphname = uni216D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+}
+);
+width = 710;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = C;
+}
+);
+width = 709;
+}
+);
+note = uni216D;
+unicode = 8557;
+}

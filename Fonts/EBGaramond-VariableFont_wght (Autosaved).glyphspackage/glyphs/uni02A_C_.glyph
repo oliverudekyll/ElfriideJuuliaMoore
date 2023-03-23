@@ -1,0 +1,35 @@
+{
+glyphname = uni02AC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-287);
+ref = w.ordn;
+},
+{
+pos = (0,-4);
+ref = w.ordn;
+}
+);
+width = 472;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,-574);
+ref = w.ordn;
+},
+{
+pos = (0,8);
+ref = w.ordn;
+}
+);
+width = 554;
+}
+);
+note = uni02AC;
+unicode = 684;
+}

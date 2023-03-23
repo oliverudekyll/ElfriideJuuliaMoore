@@ -1,0 +1,26 @@
+{
+glyphname = underscore.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = underscore;
+}
+);
+width = 500;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (0,120);
+ref = underscore;
+}
+);
+width = 610;
+}
+);
+note = underscore.sc;
+}

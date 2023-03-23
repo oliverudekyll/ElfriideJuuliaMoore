@@ -1,0 +1,32 @@
+{
+glyphname = edotaccent.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E.sc;
+},
+{
+pos = (245,-144);
+ref = uni0307.cap;
+}
+);
+width = 480;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = E.sc;
+},
+{
+pos = (499,-288);
+ref = uni0307.cap;
+}
+);
+width = 494;
+}
+);
+note = edotaccent.sc;
+}

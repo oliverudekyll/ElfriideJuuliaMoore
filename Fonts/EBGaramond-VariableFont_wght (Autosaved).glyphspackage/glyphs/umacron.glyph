@@ -1,0 +1,34 @@
+{
+glyphname = umacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (252,10);
+ref = uni0304;
+}
+);
+width = 527;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+pos = (38,3);
+ref = u;
+},
+{
+pos = (542,23);
+ref = uni0304;
+}
+);
+width = 556;
+}
+);
+note = umacron;
+unicode = 363;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = uni0209;
+kernLeft = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (77,0);
+ref = uni030F;
+}
+);
+width = 245;
+},
+{
+layerId = "9ED1D18C-5CBC-4B18-9EF9-8B0496956F76";
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (164,0);
+ref = uni030F;
+}
+);
+width = 306;
+}
+);
+note = uni0209;
+unicode = 521;
+}
