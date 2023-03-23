@@ -298,7 +298,7 @@ div.illustration {
 div.illustration2 {
     position: absolute;
     object-fit: contain;
-    -webkit-transform: scale(30%);
+    -webkit-transform: scale(30%,30%);
     left: -33rem;
     top: 91rem;
 }
@@ -306,7 +306,7 @@ div.illustration2 {
 div.illustration3 {
     position:absolute;
     object-fit: contain;
-    -webkit-transform: scale(13%);
+    -webkit-transform: scale(13%,13%);
     left: -19.5rem;
     top: 154.5rem;
 }
@@ -314,7 +314,7 @@ div.illustration3 {
 div.illustration4 {
     position:absolute;
     object-fit: contain;
-    -webkit-transform: scale(13%) rotate(15deg);
+    -webkit-transform: scale(13%,13%) rotate(15deg);
     top: 221rem;
     left: -57.5rem;
     z-index: -10;
@@ -323,7 +323,7 @@ div.illustration4 {
 div.illustration5 {
     position: absolute;
     object-fit: contain;
-    -webkit-transform: scale(14%);
+    -webkit-transform: scale(14%,14%);
     transform: scale(14%);
     top: 4.5rem;
     left: -60rem;
