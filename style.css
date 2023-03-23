@@ -49,7 +49,7 @@ div.toc a {
     font-size: 1rem;
     font-family: 'Garamond';
     color: rgb(187, 139, 65);
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
     font-weight: 500;
     text-align: right;
     text-decoration: none;
@@ -59,7 +59,7 @@ div.toc a.mainchapter {
     font-size: 1rem;
     font-family: 'Tratatello';
     color: rgba(118, 91, 167, 1);
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
     font-weight: 500;
     text-transform: uppercase;
     text-decoration: none;
@@ -94,7 +94,7 @@ p {
     text-align-last: center;
     margin: 0px;
     padding: 0;
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
 }
 
 div.shortbio p {
@@ -108,7 +108,7 @@ div.shortbio p {
     color: rgb(118, 91, 167);
     position: relative;
     text-align: justify;
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
 }
 
 div.tratatello2 h2 {
@@ -123,7 +123,7 @@ div.tratatello2  {
     text-align: center;
     line-height: 2.2rem;
     color: rgb(187, 139, 65);
-    transform: rotate(3deg);
+    -webkit-transform: rotate(3deg);
     margin-bottom: 4rem;
 }
 
@@ -143,7 +143,7 @@ div.tratatello  {
     text-align: center;
     line-height: 2.2rem;
     color: rgb(187, 139, 65);
-    transform: rotate(-3deg);
+    -webkit-transform: rotate(-3deg);
     margin-bottom: 4rem;
 }
 
@@ -189,7 +189,7 @@ h1.title {
     margin-bottom: 0rem;
     text-align: center;
     color: rgb(118, 91, 167);
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
     min-width: max-content;
 }
 
@@ -200,7 +200,7 @@ h1 {
     color: rgb(187, 139, 65);
     padding: 1rem;
     margin-top: 10rem;
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
 }
 
 img.ornament{
@@ -223,7 +223,7 @@ h2 {
     font-size: 1.8rem;
     margin-top: 3rem;
     text-align: center;
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
 }
 
 h3 {
@@ -231,7 +231,7 @@ h3 {
     font-size: 1.3rem;
     margin-top: 3rem;
     text-align: center;
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
 }
 
 em {
@@ -264,7 +264,7 @@ div.links {
     cursor: pointer;
     text-transform: uppercase;
     text-align: right;
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
     font-weight: 500;
 }
 
@@ -279,7 +279,7 @@ div.links {
     cursor: pointer;
     text-transform: uppercase;
     text-align: right;
-    transform: scaleY(103%);
+    -webkit-transform: scaleY(103%);
     font-weight: 500;
 }
 
@@ -290,7 +290,7 @@ div.links a:hover {
 div.illustration {
     position: absolute;
     object-fit: contain;
-    transform: scale(12%);
+    -webkit-transform: scale(12%);
     left: -43rem;
     top: 31rem
 }
@@ -298,7 +298,7 @@ div.illustration {
 div.illustration2 {
     position: absolute;
     object-fit: contain;
-    transform: scale(30%);
+    -webkit-transform: scale(30%);
     left: -33rem;
     top: 91rem;
 }
@@ -306,7 +306,7 @@ div.illustration2 {
 div.illustration3 {
     position:absolute;
     object-fit: contain;
-    transform: scale(13%);
+    -webkit-transform: scale(13%);
     left: -19.5rem;
     top: 154.5rem;
 }
@@ -314,7 +314,7 @@ div.illustration3 {
 div.illustration4 {
     position:absolute;
     object-fit: contain;
-    transform: scale(13%) rotate(15deg);
+    -webkit-transform: scale(13%) rotate(15deg);
     top: 221rem;
     left: -57.5rem;
     z-index: -10;
@@ -323,7 +323,7 @@ div.illustration4 {
 div.illustration5 {
     position: absolute;
     object-fit: contain;
-    transform: scale(14%);
+    -webkit-transform: scale(14%);
     top: 4.5rem;
     left: -60rem;
 }
