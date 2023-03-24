@@ -107,7 +107,7 @@ div.shortbio p {
     padding-top: 5rem;
     color: rgb(118, 91, 167);
     position: relative;
-    text-align: justify;
+    text-align: center;
     -webkit-transform: scaleY(103%);
 }
 
@@ -386,7 +386,7 @@ div.illustration5 img {
         justify-content: center;
         align-items: center;
         flex-flow: column nowrap;
-        overflow: hidden;
+        overflow: visible;
     }
     
     div.text {
@@ -415,12 +415,12 @@ div.illustration5 img {
         font-size: 1.4rem;
         line-height: 1.6rem;
         font-weight: 100;
-        max-width: 40ch;
+        width: 33ch;
         padding-bottom: 10rem;
         padding-top: 5rem;
         color: rgb(118, 91, 167);
         position: relative;
-        text-align: justify;
+        text-align: center;
         -webkit-transform: scaleY(103%);
     }
     
