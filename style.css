@@ -356,7 +356,7 @@ div.illustration5 img {
     }
     
     div.toc a {
-        font-size: 1rem;
+        font-size: .8rem;
         font-family: 'Garamond';
         color: rgb(187, 139, 65);
         -webkit-transform: scaleY(103%);
@@ -366,7 +366,7 @@ div.illustration5 img {
     }
     
     div.toc a.mainchapter {
-        font-size: 1rem;
+        font-size: .8rem;
         font-family: 'Tratatello';
         color: rgba(118, 91, 167, 1);
         -webkit-transform: scaleY(103%);
@@ -390,10 +390,10 @@ div.illustration5 img {
     div.text {
         position: relative;
         font-family: Garamond;
-        font-size: .8rem;
-        line-height: 1rem;
+        font-size: 1rem;
+        line-height: 1.2rem;
         font-weight: 100;
-        max-width: 35ch;
+        max-width: 45ch;
         padding-bottom: 10rem;
         padding-top: 10rem;
         color: rgb(118, 91, 167);
@@ -410,10 +410,10 @@ div.illustration5 img {
     
     div.shortbio p {
         font-family: 'Garamond';
-        font-size: 1.6rem;
-        line-height: 1.8rem;
+        font-size: 1.4rem;
+        line-height: 1.6rem;
         font-weight: 100;
-        max-width: 30ch;
+        max-width: 40ch;
         padding-bottom: 10rem;
         padding-top: 5rem;
         color: rgb(118, 91, 167);
@@ -424,15 +424,15 @@ div.illustration5 img {
     
     div.tratatello2 h2 {
         text-align: center;
-        font-size: 2.5rem;
+        font-size: 2rem;
         margin-bottom: 1rem;
     }
     
     div.tratatello2  {
         font-family: 'Tratatello';
-        font-size: 1rem;
+        font-size: 1.4rem;
         text-align: center;
-        line-height: 1.2rem;
+        line-height: 1.6rem;
         color: rgb(187, 139, 65);
         -webkit-transform: rotate(3deg);
         margin-bottom: 4rem;
@@ -444,15 +444,15 @@ div.illustration5 img {
     
     div.tratatello h2 {
         text-align: center;
-        font-size: 2.5rem;
+        font-size: 2rem;
         margin-bottom: 1rem;
     }
     
     div.tratatello  {
         font-family: 'Tratatello';
-        font-size: 1rem;
+        font-size: 1.4rem;
         text-align: center;
-        line-height: 1.2rem;
+        line-height: 1.6rem;
         color: rgb(187, 139, 65);
         -webkit-transform: rotate(-3deg);
         margin-bottom: 4rem;
@@ -494,7 +494,7 @@ div.illustration5 img {
     
     h1.title {
         font-family: 'Garamond';
-        font-size: 11vw;
+        font-size: 10vw;
         font-weight: 100;
         margin-top: 0rem;
         padding-top: 0rem;
