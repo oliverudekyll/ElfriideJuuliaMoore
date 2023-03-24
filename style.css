@@ -252,6 +252,7 @@ div.links {
     flex-flow: row nowrap;
     align-items: flex-end;
     justify-content: flex-end;
+    z-index: 100;   
 }
 
 .button {
@@ -563,6 +564,7 @@ div.illustration5 img {
         flex-flow: row nowrap;
         align-items: flex-end;
         justify-content: flex-end;
+        z-index: 100;
     }
     
     .button {
