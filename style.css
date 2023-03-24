@@ -268,6 +268,7 @@ div.links {
     text-align: right;
     -webkit-transform: scaleY(103%);
     font-weight: 500;
+    text-decoration: none;
 }
 
 .buttongold {
@@ -569,7 +570,7 @@ div.illustration5 img {
     
     .button {
         position: relative;
-        font-size: 1rem;
+        font-size: .8rem;
         font-family: 'Tratatello';
         color: rgba(118, 91, 167, 1);
         opacity: 100%;
@@ -580,6 +581,7 @@ div.illustration5 img {
         text-align: right;
         -webkit-transform: scaleY(103%);
         font-weight: 500;
+        text-decoration: none;
     }
     
     .buttongold {
