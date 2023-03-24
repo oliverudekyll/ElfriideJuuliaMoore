@@ -390,8 +390,8 @@ div.illustration5 img {
     div.text {
         position: relative;
         font-family: Garamond;
-        font-size: 1.2rem;
-        line-height: 1.4rem;
+        font-size: .8rem;
+        line-height: 1rem;
         font-weight: 100;
         max-width: 35ch;
         padding-bottom: 10rem;
@@ -430,9 +430,9 @@ div.illustration5 img {
     
     div.tratatello2  {
         font-family: 'Tratatello';
-        font-size: 2rem;
+        font-size: 1rem;
         text-align: center;
-        line-height: 2.2rem;
+        line-height: 1.2rem;
         color: rgb(187, 139, 65);
         -webkit-transform: rotate(3deg);
         margin-bottom: 4rem;
@@ -450,9 +450,9 @@ div.illustration5 img {
     
     div.tratatello  {
         font-family: 'Tratatello';
-        font-size: 2rem;
+        font-size: 1rem;
         text-align: center;
-        line-height: 2.2rem;
+        line-height: 1.2rem;
         color: rgb(187, 139, 65);
         -webkit-transform: rotate(-3deg);
         margin-bottom: 4rem;
