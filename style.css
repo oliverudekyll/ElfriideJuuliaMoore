@@ -335,6 +335,9 @@ div.illustration5 img {
     body {
         padding-top: 15rem;
         background-color:rgba(187, 139, 65, .3);
+        width: 100vw;
+        overflow: scroll;
+        overflow-x: hidden;
     }
     
     div.difference {
@@ -355,6 +358,7 @@ div.illustration5 img {
         flex-flow: column nowrap;
         top: 1rem;
         right: 2rem;
+        display: none;
     }
     
     div.toc a {
