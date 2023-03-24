@@ -386,7 +386,7 @@ div.illustration5 img {
         justify-content: center;
         align-items: center;
         flex-flow: column nowrap;
-        overflow: hidden;
+        overflow: visible;
     }
     
     div.text {
