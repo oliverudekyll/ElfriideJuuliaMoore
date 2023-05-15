@@ -51,8 +51,25 @@ div.toc a {
     color: rgb(187, 139, 65);
     -webkit-transform: scaleY(103%);
     font-weight: 500;
-    text-align: right;
+    text-align: center;
     text-decoration: none;
+}
+
+.tocIcon {
+    position: absolute;
+    object-fit: contain;
+    height: 1rem;
+    width: 10vw;
+    left: 0rem;
+    top: .3rem;
+    z-index: 1000;
+    opacity: 0%;
+}
+
+.tocIcon:hover {
+    opacity: 100%;
+    left: -2rem;
+    width: auto;
 }
 
 div.toc a.mainchapter {
@@ -67,6 +84,12 @@ div.toc a.mainchapter {
 
 div.toc a.mainchapter:hover {
     font-weight: 600;
+    color: rgba(118, 91, 167, .5);
+}
+
+div.toc a.mainchapter:hover .tocIon {
+    opacity: 100%;
+
 }
 
 div.feed {
@@ -160,7 +183,7 @@ span {
   }
 
 a.indent{
-    margin-left: 1rem;
+    margin-left: 0rem;
     
 }
 
